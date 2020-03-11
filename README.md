@@ -7,3 +7,5 @@ Changes include updated syntax libraries and moving each format to its own `XML`
 Place the `XML` files into `%appdata%\notepad++\uderdefinelangs\` and restart NotePad++ for them to take effect. 
 
 It would be better to remove the old combined VDF language file from your NP++ root folder before installing these to prevent conflicts.
+
+Feel free to suggest any changes or make requests.
