@@ -1,6 +1,6 @@
 # Notepad++ VDF Language Plugins
 
-An updated version of the Valve Developer Format plugins for NotePad++.
+An updated version of the Valve Developer Format plugins for **NotePad++ versions 7.6.4** onwards.
 
 Changes include updated syntax libraries and moving each format to its own `XML` file instead of a single "megafile" for simplicity of updating.
 
