@@ -8,4 +8,4 @@ Place the `XML` files into `%appdata%\notepad++\uderdefinelangs\` and restart No
 
 It would be better to remove the old combined VDF language file from your NP++ root folder before installing these to prevent conflicts.
 
-Feel free to suggest any changes or make requests.
+Feel free to suggest any changes or make requests. *Help me help you help us all.*
