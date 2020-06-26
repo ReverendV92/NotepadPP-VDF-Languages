@@ -13,11 +13,11 @@
             <Keywords name="Numbers, suffix1"></Keywords>
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
-            <Keywords name="Operators1">( ) { } = - + ! ~ , [ ]</Keywords>
+            <Keywords name="Operators1">= - + ! ~ , [ ]</Keywords>
             <Keywords name="Operators2">in local nil repeat repeat false not return true until while continue goto break or and then do </Keywords>
-            <Keywords name="Folders in code1, open"></Keywords>
+            <Keywords name="Folders in code1, open">{ (</Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
-            <Keywords name="Folders in code1, close"></Keywords>
+            <Keywords name="Folders in code1, close">} )</Keywords>
             <Keywords name="Folders in code2, open">if for function </Keywords>
             <Keywords name="Folders in code2, middle"></Keywords>
             <Keywords name="Folders in code2, close">end</Keywords>
