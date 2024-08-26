@@ -10,4 +10,5 @@ It would be better to remove the old combined VDF language file from your NP++ r
 
 Any deprecated commands or syntaxes have been moved to what I call the "Dodgy Command List", and will highlight in red to notify you that they're probably to be avoided. Obviously if you know what you're doing, you can disregard this, but you're not the majority of end users, so I don't need to warn you about it.
 
-Feel free to suggest any changes or make requests. *Help me help you help us all.*
+### Feedback welcome. *Help me help you help us all.*
+If you find missing commands, have suggestions on how to improve the appearance, or find bugs. Please do not hesitate to make an issue post.
